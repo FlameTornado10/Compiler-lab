@@ -1,0 +1,9 @@
+
+int func1(int a){
+        bool b = _bool_;    
+}
+int main(){
+    {
+        int a = 0;
+    }
+}

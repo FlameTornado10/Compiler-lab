@@ -1,0 +1,40 @@
+              func_begin    // todo
+                  alloca
+             store_param    // todo
+             block_begin
+                  alloca
+      temp_assign_direct
+                  alloca
+      temp_assign_direct
+                  alloca
+      temp_assign_direct
+                  alloca
+      temp_assign_direct
+                   label
+       temp_assign_rel_<
+                    beqz
+             block_begin
+       temp_assign_2_add
+              var_assign
+                    call
+              var_assign
+              var_assign
+      temp_assign_direct
+       temp_assign_2_add
+              var_assign
+               block_end
+                    goto
+                   label
+                 ret_val
+               block_end
+                func_end    // todo
+              func_begin    // todo
+             block_begin
+                  alloca
+                    call    // todo
+              var_assign
+                    call
+      temp_assign_direct
+                 ret_val
+               block_end
+                func_end

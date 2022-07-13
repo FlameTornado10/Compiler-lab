@@ -1,6 +1,6 @@
 # Compiler-lab
 
-UCAS 编译原理实验课程代码，主要编写部分在compiler_dzk/compiler/src/中
+UCAS 编译原理实验课程代码，主要编写部分在compiler_duzk/compiler/src/中
 
 * 前端基于Antlr4实现
 
@@ -12,3 +12,4 @@ UCAS 编译原理实验课程代码，主要编写部分在compiler_dzk/compiler
     * todo: 线性扫描
 
   
+
